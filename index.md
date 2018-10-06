@@ -17,15 +17,16 @@
   ![image](https://github.com/Duanhangqi/the-crouse/blob/master/224238.png)
   ## 2.2 请打开你的邮箱，查看发送给你的确认邮件，你需要验证邮箱后,后面生成的个人主页才会被接受和发布.
 
-# 3.1创建页面仓库
+# 3.1点击new repository创建页面仓库
  ![image](https://github.com/Duanhangqi/the-crouse/blob/master/224254.png)
 
 ## 3.2 输入仓库基本信息
+输入命名和对这个仓库的描述
  ![image](https://github.com/Duanhangqi/the-crouse/blob/master/224259.png)
 
  
- 
-# 4。进入仓库设置界面
+ # 4。进入仓库设置界面
+![image](https://github.com/Duanhangqi/the-crouse/blob/master/224259.png)
 
 # 5.下拉找到GitHub Pages卡片
  ![image](https://github.com/Duanhangqi/the-crouse/blob/master/24306.png)
