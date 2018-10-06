@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## 小菜鸡的微博搭建分享
 
-You can use the [editor on GitHub](https://github.com/Duanhangqi/the-crouse/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+今天第一次做博客的我要给大家分享一下我的的第一篇博客怎么做，望大佬莫笑
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 话不多说，下面上干货
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 1.注册账号
+地址: https://github.com/
+输入账号、邮箱、密码,然后点击注册按钮.
+图片图片图片！！！
 
-- Bulleted
-- List
+# 2.初始设置
+## 2.1 注册完成后,选择Free免费账号完成设置。
+  图片图片图片！！！
+## 2.2 请打开你的邮箱，查看发送给你的确认邮件，你需要验证邮箱后,后面生成的个人主页才会被接受和发布.
 
-1. Numbered
-2. List
+# 3创建页面仓库
+输入基本信息创建仓库
+ 图片图片图片！！！
+ 
+# 4。进入仓库设置界面
 
-**Bold** and _Italic_ and `Code` text
+# 5。下拉找到GitHub Pages界面
+ 图片图片图片！！！
+## 5.1 点击choose a thream
+进入后选择一个主题
+ 图片图片图片！！！
+ 
+ # 6 自定义界面内容
+ 在文中用markdown语法输入，既可修改内容
+  图片图片图片！！！
+ # 7 发布
+ 好啦，大功告成，可以发布了
+  图片图片图片！！！
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Duanhangqi/the-crouse/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
