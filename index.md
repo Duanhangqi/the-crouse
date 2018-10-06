@@ -14,7 +14,7 @@
 
 # 2.初始设置
   ## 2.1 注册完成后,选择Free免费账号完成设置。
-  ![image](https://github.com/Duanhangqi/the-crouse/blob/master/123.png)
+  ![image](https://github.com/Duanhangqi/the-crouse/blob/master/224238.png)
   ## 2.2 请打开你的邮箱，查看发送给你的确认邮件，你需要验证邮箱后,后面生成的个人主页才会被接受和发布.
 
 # 3.1创建页面仓库
