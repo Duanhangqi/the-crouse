@@ -10,7 +10,7 @@
 # 1.注册账号
 地址: https://github.com/
 输入账号、邮箱、密码,然后点击注册按钮.
-图片图片图片！！！
+![image](https://github.com/Duanhangqi/the-crouse/blob/master/123.png)
 
 # 2.初始设置
 ## 2.1 注册完成后,选择Free免费账号完成设置。
