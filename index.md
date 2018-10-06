@@ -25,8 +25,8 @@
  ![image](https://github.com/Duanhangqi/the-crouse/blob/master/224259.png)
 
  
- # 4。进入仓库设置界面
-![image](https://github.com/Duanhangqi/the-crouse/blob/master/224259.png)
+ # 4。点setting进入仓库设置界面
+![image](https://github.com/Duanhangqi/the-crouse/blob/master/4243.png)
 
 # 5.下拉找到GitHub Pages卡片
  ![image](https://github.com/Duanhangqi/the-crouse/blob/master/24306.png)
